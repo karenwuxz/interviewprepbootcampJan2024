@@ -144,13 +144,20 @@ that far. Whether it runs or not, just submit what you have.
 01/18 (Thurs)(week3-day3):
 * Topics of the day: Graphs
 * Problems covered: [clone graph](https://leetcode.com/problems/clone-graph/description/), [course schedule](https://leetcode.com/problems/course-schedule/description/)
-* Recordings: 
+* Recordings: https://youtu.be/oZicWfkHG_I
 
-*Homework: []()*
+*Homework: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)*
 
 01/19 (Fri)(week3-day4):
 * Topics of the day: Dynamic Programming
-* Problems covered: [](), []()
+* Problems covered: [house robber](https://leetcode.com/problems/house-robber/description/)
+* Recordings: https://youtu.be/Epd6chI5GtY
+
+*Homework: [coin change](https://leetcode.com/problems/coin-change/description/)*
+
+01/22 (Mon)(week3-day5):
+* Topics of the day: 
+* Problems covered: 
 * Recordings: 
 
-*Homework: []()*
+*Homework: [coin change](https://leetcode.com/problems/coin-change/description/)*
